@@ -1,6 +1,9 @@
 [![An image of @shreyamaheshwari1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreyamaheshwari1)](https://holopin.io/@shreyamaheshwari1)
 
-<!--
+<b>Gssoc-Exd 2024</b>
+
+!--![Shreya Maheshwari_Cert_Contributor_GSSoC2024Extd](https://github.com/user-attachments/assets/6003ff10-8ba3-4999-b071-8fea40ef8651)
+
 **shreyamaheshwari1/shreyamaheshwari1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
